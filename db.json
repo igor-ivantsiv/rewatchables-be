@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 1,
-      "type": "movie",
+      "type": "movies",
       "title": "Lord of the Rings: The Fellowship of the Ring",
       "genre": ["action", "adventure", "drama", "fantasy"],
       "director": "Peter Jackson",
