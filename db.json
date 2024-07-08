@@ -4,173 +4,101 @@
       "id": 1,
       "type": "movie",
       "title": "Lord of the Rings: The Fellowship of the Ring",
-      "genre": [
-        "action",
-        "adventure",
-        "drama",
-        "fantasy"
-      ],
+      "genre": ["action", "adventure", "drama", "fantasy"],
       "director": "Peter Jackson",
       "rating": 4.4,
       "year": 2001,
       "length": "02:58",
+      "seasons": null,
+      "episodes": null,
       "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
       "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
       "availableOn": [
         "Netflix",
-        "Apple TV"
+        "Prime Video",
+        "Apple TV",
+        "HBO Max",
+        "Hulu",
+        "Paramount+",
+        "Roku",
+        "Disney+",
+        "Peacock"
       ],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 2,
-      "type": "movie",
+      "type": "movies",
       "title": "Lord of the Rings: The Two Towers",
-      "genre": [
-        "action",
-        "adventure",
-        "drama",
-        "fantasy"
-      ],
+      "genre": ["action", "adventure", "drama", "fantasy"],
       "director": "Peter Jackson",
       "rating": 4.3,
       "year": 2002,
       "length": "02:59",
+      "seasons": null,
+      "episodes": null,
       "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
       "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV"
-      ],
+      "availableOn": ["Netflix", "Apple TV"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 3,
-      "type": "movie",
+      "type": "movies",
       "title": "Lord of the Rings: The Return of the King",
-      "genre": [
-        "action",
-        "adventure",
-        "drama",
-        "fantasy"
-      ],
+      "genre": ["action", "adventure", "drama", "fantasy"],
       "director": "Peter Jackson",
       "rating": 4.8,
       "year": 2003,
       "length": "03:21",
+      "seasons": null,
+      "episodes": null,
       "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
       "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV",
-        "Prime Video"
-      ],
+      "availableOn": ["Netflix", "Apple TV", "Prime Video"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 4,
-      "type": "movie",
+      "type": "movies",
       "title": "Django Unchained",
-      "genre": [
-        "comedy",
-        "drama",
-        "western"
-      ],
+      "genre": ["comedy", "drama", "western"],
       "director": "Quentin Tarantino",
       "rating": 4,
       "year": 2012,
       "length": "02:45",
+      "seasons": null,
+      "episodes": null,
       "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
       "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV",
-        "Prime Video"
-      ],
+      "availableOn": ["Netflix", "Apple TV", "Prime Video"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 5,
-      "type": "movie",
+      "type": "movies",
       "title": "Scarface",
-      "genre": [
-        "crime",
-        "drama"
-      ],
+      "genre": ["crime", "drama"],
       "director": "Brian De Palma",
       "rating": 4.1,
       "year": 1983,
       "length": "2h 50m",
+      "seasons": null,
+      "episodes": null,
       "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
       "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV",
-        "Prime Video"
-      ],
-      "trailer": "",
-      "recap": ""
-    },
-    {
-      "title": "!this is another edit TEST",
-      "genre": [
-        "action",
-        "adventure"
-      ],
-      "director": "test director",
-      "rating": 2.75,
-      "year": 1997,
-      "length": "01:59",
-      "description": "this is a test",
-      "image": "",
-      "availableOn": [
-        "Prime Video",
-        "Netflix"
-      ],
+      "availableOn": ["Netflix", "Apple TV", "Prime Video"],
       "trailer": "",
       "recap": "",
-      "id": 6
-    },
-    {
-      "title": "!this is an edit test 2",
-      "genre": [
-        "comedy",
-        "fantasy"
-      ],
-      "director": "test2 director",
-      "rating": 3.5,
-      "year": 1993,
-      "length": "02:15",
-      "description": "this is a second test",
-      "image": "",
-      "availableOn": [
-        "Paramount+",
-        "Apple TV"
-      ],
-      "trailer": "",
-      "recap": "",
-      "id": 7
-    },
-    {
-      "title": "test 3",
-      "genre": [
-        "drama",
-        "horror"
-      ],
-      "director": "third test",
-      "rating": 4.25,
-      "year": 2013,
-      "length": "01:45",
-      "description": "this is test number three",
-      "image": "",
-      "availableOn": [],
-      "trailer": "",
-      "recap": "",
-      "id": 8
+      "notes": []
     }
   ],
   "series": [
@@ -178,173 +106,91 @@
       "id": 1,
       "type": "series",
       "title": "Breaking Bad",
-      "genre": [
-        "crime",
-        "drama",
-        "thriller"
-      ],
+      "genre": ["crime", "drama", "thriller"],
       "director": "Vince Gilligan",
       "rating": 4.9,
       "year": 2008,
-      "length": {
-        "episodes": 62,
-        "seasons": 5
-      },
+      "length": null,
+      "episodes": 62,
+      "seasons": 5,
       "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
       "image": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV",
-        "Prime Video"
-      ],
+      "availableOn": ["Netflix", "Apple TV", "Prime Video"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 2,
       "type": "series",
       "title": "Dark",
-      "genre": [
-        "crime",
-        "drama",
-        "thriller",
-        "mystery",
-        "sci-fi"
-      ],
+      "genre": ["crime", "drama", "thriller", "mystery", "sci-fi"],
       "director": "Baran bo Odar",
       "rating": 4.2,
       "year": 2017,
-      "length": {
-        "episodes": 26,
-        "seasons": 3
-      },
+      "length": null,
+      "episodes": 26,
+      "seasons": 3,
       "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families.",
       "image": "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_.jpg",
-      "availableOn": [
-        "Netflix",
-        "Apple TV",
-        "Prime Video"
-      ],
+      "availableOn": ["Netflix", "Apple TV", "Prime Video"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 3,
       "type": "series",
       "title": "The Boys",
-      "genre": [
-        "action",
-        "comedy",
-        "crime",
-        "drama",
-        "sci-fi"
-      ],
+      "genre": ["action", "comedy", "crime", "drama", "sci-fi"],
       "director": "Eric Kripke",
       "rating": 4.1,
       "year": 2019,
-      "length": {
-        "episodes": 33,
-        "seasons": 4
-      },
+      "length": null,
+      "episodes": 33,
+      "seasons": 4,
       "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
       "image": "https://m.media-amazon.com/images/M/MV5BYTY2ZjYyNGUtZGVkZS00MDNhLWIwMjMtZDk4MmQ5ZWI0NTY4XkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
-      "availableOn": [
-        "Prime Video"
-      ],
+      "availableOn": ["Prime Video"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 4,
       "type": "series",
       "title": "The Walking Dead",
-      "genre": [
-        "drama",
-        "horror",
-        "thriller"
-      ],
+      "genre": ["drama", "horror", "thriller"],
       "director": "Frank Darabont",
       "rating": 3.9,
       "year": 2010,
-      "length": {
-        "episodes": 177,
-        "seasons": 11
-      },
+      "length": null,
+      "episodes": 177,
+      "seasons": 11,
       "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
       "image": "https://m.media-amazon.com/images/M/MV5BNzI5MjUyYTEtMTljZC00NGI5LWFhNWYtYjY0ZTQ5YmEzMWRjXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
-      "availableOn": [
-        "Prime Video",
-        "Netflix"
-      ],
+      "availableOn": ["Prime Video", "Netflix"],
       "trailer": "",
-      "recap": ""
+      "recap": "",
+      "notes": []
     },
     {
       "id": 5,
       "type": "series",
       "title": "Community",
-      "genre": [
-        "comedy"
-      ],
+      "genre": ["comedy"],
       "director": "Dan Harmon",
       "rating": 4,
       "year": 2009,
-      "length": {
-        "episodes": 110,
-        "seasons": 6
-      },
+      "length": null,
+      "episodes": 110,
+      "seasons": 6,
       "description": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.",
       "image": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_.jpg",
-      "availableOn": [
-        "Prime Video",
-        "Netflix"
-      ],
-      "trailer": "",
-      "recap": ""
-    },
-    {
-      "title": "!edit series test series",
-      "genre": [
-        "adventure",
-        "thriller"
-      ],
-      "director": "test series director",
-      "rating": 3.5,
-      "year": 1984,
-      "length": {
-        "episodes": 25
-      },
-      "description": "this is a test to add a series",
-      "image": "",
-      "availableOn": [
-        "Apple TV",
-        "Disney+"
-      ],
+      "availableOn": ["Prime Video", "Netflix"],
       "trailer": "",
       "recap": "",
-      "id": 6
-    },
-    {
-      "title": "series test 2",
-      "genre": [
-        "action",
-        "thriller"
-      ],
-      "director": "series test2 director",
-      "rating": 1.5,
-      "year": 2013,
-      "length": {
-        "episodes": 100,
-        "seasons": 5
-      },
-      "description": "description for series test 2",
-      "image": "",
-      "availableOn": [
-        "Hulu"
-      ],
-      "trailer": "",
-      "recap": "",
-      "id": 7
+      "notes": []
     }
   ]
 }

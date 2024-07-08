@@ -1,0 +1,32 @@
+{
+    "id": 22222,
+    "type": "movies",
+    "title": "",
+    "genre": [
+      "action",
+      "adventure",
+      "drama",
+      "fantasy"
+    ],
+    "director": "",
+    "rating": 4.4,
+    "year": 3333,
+    "length": "02:58",
+    "seasons": null,
+    "episodes": null,
+    "description": "",
+    "image": "",
+    "availableOn": [
+      "Netflix",
+      "Prime Video",
+      "Apple TV",
+      "HBO Max",
+      "Hulu",
+      "Paramount+",
+      "Roku",
+      "Disney+",
+      "Peacock"
+    ],
+    "trailer": "",
+    "recap": ""
+  }
