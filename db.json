@@ -26,8 +26,7 @@
         "Hulu",
         "Paramount+",
         "Roku",
-        "Disney+",
-        "Peacock"
+        "Disney+"
       ],
       "trailer": "",
       "recap": "",
@@ -160,6 +159,31 @@
       "recap": "",
       "notes": [],
       "id": 6
+    },
+    {
+      "type": "movies",
+      "title": "Ready player one",
+      "genre": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "director": "Steven Spielberg",
+      "rating": 3.75,
+      "year": 2024,
+      "length": "02:20",
+      "seasons": null,
+      "episodes": null,
+      "description": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
+      "availableOn": [
+        "Netflix",
+        "Disney+"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 7
     }
   ],
   "series": [
@@ -183,7 +207,9 @@
       "availableOn": [
         "Netflix",
         "Apple TV",
-        "Prime Video"
+        "Prime Video",
+        "HBO Max",
+        "Hulu"
       ],
       "trailer": "",
       "recap": "",
@@ -262,7 +288,8 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNzI5MjUyYTEtMTljZC00NGI5LWFhNWYtYjY0ZTQ5YmEzMWRjXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
       "availableOn": [
         "Prime Video",
-        "Netflix"
+        "Netflix",
+        "Apple TV"
       ],
       "trailer": "",
       "recap": "",
@@ -285,7 +312,9 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_.jpg",
       "availableOn": [
         "Prime Video",
-        "Netflix"
+        "Netflix",
+        "Paramount+",
+        "Disney+"
       ],
       "trailer": "",
       "recap": "",
@@ -309,12 +338,57 @@
       "image": "https://cdns-images.dzcdn.net/images/cover/83f6841cb689aec4a826ad335b1b5ba1/500x500.jpg",
       "availableOn": [
         "Netflix",
-        "Hulu"
+        "Hulu",
+        "Paramount+"
       ],
       "trailer": "",
       "recap": "",
       "notes": [],
       "id": 6
+    },
+    {
+      "type": "series",
+      "title": "Yellowstone",
+      "genre": [
+        "drama"
+      ],
+      "director": "John Linson",
+      "rating": 4.5,
+      "year": 2024,
+      "length": null,
+      "seasons": 5,
+      "episodes": 53,
+      "description": "A ranching family in Montana faces off against others encroaching on their land.",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGFiZjU5NGEtNTAwNS00ZjI2LTg0YTktNjg0ODFlM2E0NGVhXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "availableOn": [
+        "Paramount+"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 7
+    },
+    {
+      "type": "series",
+      "title": "StartUp",
+      "genre": [
+        "drama"
+      ],
+      "director": "Ben Ketai",
+      "rating": 4,
+      "year": 2024,
+      "length": null,
+      "seasons": 3,
+      "episodes": 30,
+      "description": "A desperate banker, a Haitian-American gang lord and a Cuban-American hacker are forced to work together to unwittingly create their version of the American dream - organized crime 2.0.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTAxNTIwNzE5MTJeQTJeQWpwZ15BbWU4MDE2NDQ2MTMy._V1_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 8
     }
   ]
 }
