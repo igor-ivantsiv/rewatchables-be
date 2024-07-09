@@ -149,7 +149,7 @@
       "seasons": null,
       "episodes": null,
       "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
-      "image": "https://www.lasermovies.de/20553-large_default/laserdisc-saving-private-ryan-ntsc-english.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg",
       "availableOn": [
         "Prime Video",
         "Roku",
@@ -184,6 +184,274 @@
       "recap": "",
       "notes": [],
       "id": 7
+    },
+    {
+      "type": "movies",
+      "title": "Dune: Part One",
+      "genre": [
+        "adventure"
+      ],
+      "director": "Denis Villeneuve",
+      "rating": 4.75,
+      "year": 2021,
+      "length": "02:35",
+      "seasons": null,
+      "episodes": null,
+      "description": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 8
+    },
+    {
+      "type": "movies",
+      "title": "Dune: Part Two",
+      "genre": [
+        "adventure"
+      ],
+      "director": "Denis Villeneuve",
+      "rating": 4.75,
+      "year": 2024,
+      "length": "02:46",
+      "seasons": null,
+      "episodes": null,
+      "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he must prevent a terrible future only he can foresee.",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 9
+    },
+    {
+      "type": "movies",
+      "title": "Joker",
+      "genre": [
+        "drama"
+      ],
+      "director": "Todd Phillips",
+      "rating": 4.75,
+      "year": 2024,
+      "length": "02:02",
+      "seasons": null,
+      "episodes": null,
+      "description": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "availableOn": [
+        "Apple TV",
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 10
+    },
+    {
+      "type": "movies",
+      "title": "Batman Begins",
+      "genre": [
+        "action"
+      ],
+      "director": "Christopher Nolan",
+      "rating": 3.75,
+      "year": 2024,
+      "length": "02:20",
+      "seasons": null,
+      "episodes": null,
+      "description": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he decides to stop a secret society that intends to destroy the city.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Batman_Begins_Poster.jpg",
+      "availableOn": [
+        "HBO Max"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 11
+    },
+    {
+      "type": "movies",
+      "title": "The Dark Knight",
+      "genre": [
+        "action"
+      ],
+      "director": "Christopher Nolan",
+      "rating": 4.75,
+      "year": 2024,
+      "length": "02:32",
+      "seasons": null,
+      "episodes": null,
+      "description": "Batman has a new foe, the Joker, who is an accomplished criminal hell-bent on decimating Gotham City. Together with Gordon and Harvey Dent, Batman struggles to thwart the Joker before it is too late.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "availableOn": [
+        "HBO Max"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 12
+    },
+    {
+      "type": "movies",
+      "title": "The Dark Knight Rises",
+      "genre": [
+        "action",
+        "thriller"
+      ],
+      "director": "Christopher Nolan",
+      "rating": 4.5,
+      "year": 2024,
+      "length": "02:45",
+      "seasons": null,
+      "episodes": null,
+      "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_FMjpg_UX1000_.jpg",
+      "availableOn": [
+        "HBO Max"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 13
+    },
+    {
+      "type": "movies",
+      "title": "Pulp Fiction",
+      "genre": [
+        "thriller"
+      ],
+      "director": "Quentin Tarantino",
+      "rating": 4.5,
+      "year": 2024,
+      "length": "02:34",
+      "seasons": null,
+      "episodes": null,
+      "description": "In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 14
+    },
+    {
+      "type": "movies",
+      "title": "Fight Club",
+      "genre": [
+        "drama",
+        "action"
+      ],
+      "director": "David Fincher",
+      "rating": 4.5,
+      "year": 1994,
+      "length": "02:19",
+      "seasons": null,
+      "episodes": null,
+      "description": "Unhappy with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. Soon, their venture spirals down into something sinister.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 15
+    },
+    {
+      "type": "movies",
+      "title": "Avengers: Endgame",
+      "genre": [
+        "action"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "rating": 4.75,
+      "year": 2019,
+      "length": "03:01",
+      "seasons": null,
+      "episodes": null,
+      "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "availableOn": [
+        "Disney+"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 16
+    },
+    {
+      "type": "movies",
+      "title": "Avengers: Infinity War",
+      "genre": [
+        "action"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "rating": 4.5,
+      "year": 2018,
+      "length": "02:29",
+      "seasons": null,
+      "episodes": null,
+      "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+      "availableOn": [
+        "Disney+"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 17
+    },
+    {
+      "type": "movies",
+      "title": "Oppenheimer",
+      "genre": [
+        "thriller",
+        "drama"
+      ],
+      "director": "Christopher Nolan",
+      "rating": 4.5,
+      "year": 2023,
+      "length": "03:00",
+      "seasons": null,
+      "episodes": null,
+      "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 18
+    },
+    {
+      "type": "movies",
+      "title": "Tenet",
+      "genre": [
+        "action"
+      ],
+      "director": "Christopher Nolan",
+      "rating": 4.5,
+      "year": 2020,
+      "length": "02:30",
+      "seasons": null,
+      "episodes": null,
+      "description": "When a few objects that can be manipulated and used as weapons in the future fall into the wrong hands, a CIA operative, known as the Protagonist, must save the world.",
+      "image": "https://resizing.flixster.com/zHrh5Wu9CxOi55eiImv27H-7zMw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliMTVjNTkwLTA1ZTUtNDEyMS04NmNmLTBiMzA2OThhMGY0MC5qcGc=",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 19
     }
   ],
   "series": [
@@ -389,6 +657,183 @@
       "recap": "",
       "notes": [],
       "id": 8
+    },
+    {
+      "type": "series",
+      "title": "Mr. Robot",
+      "genre": [
+        "drama"
+      ],
+      "director": "Sam Esmail",
+      "rating": 4,
+      "year": 2015,
+      "length": null,
+      "seasons": 4,
+      "episodes": 46,
+      "description": "Elliot, a cyber-security engineer suffering from anxiety, works for a corporation and hacks felons by night. Panic strikes him after Mr Robot, a cryptic anarchist, recruits him to ruin his company.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 9
+    },
+    {
+      "type": "series",
+      "title": "The Last Kingdom",
+      "genre": [
+        "action",
+        "adventure"
+      ],
+      "director": "Ben Murphy",
+      "rating": 3.5,
+      "year": 2024,
+      "length": null,
+      "seasons": 5,
+      "episodes": 47,
+      "description": "Uhtred, the son of a nobleman, is captured and raised by Danes. Once he grows up, he has to choose whom he will protect, the land where he grew up or the people who raised him as their own.",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12079367_b_v8_an.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 10
+    },
+    {
+      "type": "series",
+      "title": "The Man in the High Castle",
+      "genre": [
+        "drama"
+      ],
+      "director": "Michael Cedar; Jean Higgins; Jordan Sheehan; David W. Zucker",
+      "rating": 4,
+      "year": 2015,
+      "length": null,
+      "seasons": 4,
+      "episodes": 38,
+      "description": "This series, loosely based Philip K. Dick's novel of the same name, takes a look at what the world might look like had the outcome of World War II turned out differently. In this dystopian scenario, the Axis powers won the war, leading to the United States being divided into three parts, an area controlled by the Japanese, a Nazi-controlled section, and a buffer zone between the two. Despite the oppression, a new hope emerges when films turn up that seem to show a different world. A woman believes the films contain the key to freedom and is determined to find their mysterious guardian.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWEwNzQ4NzUtMWRmYS00NDdiLTg5NDItODA5M2M4YTM0ZTE2XkEyXkFqcGdeQXVyMTAzNjU2NjM1._V1_FMjpg_UX1000_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 11
+    },
+    {
+      "type": "series",
+      "title": "American Gods",
+      "genre": [
+        "drama"
+      ],
+      "director": "Brian Reitzell; Danny Bensi; Saunder Jurriaans; Andrew Lockington",
+      "rating": 3.5,
+      "year": 2024,
+      "length": null,
+      "seasons": 3,
+      "episodes": 25,
+      "description": "Shadow, an ex-convict, takes up the job of guarding Mr Wednesday, who is the God Odin in disguise. Eventually, Shadow has to adjust and deal with his new reality and figure out his own place in it.",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13086256_b_v13_aa.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 12
+    },
+    {
+      "type": "series",
+      "title": "Peaky Blinders",
+      "genre": [
+        "drama"
+      ],
+      "director": "Caryn Mandabach Productions; Tiger Aspect Productions; Screen Yorkshire",
+      "rating": 4.75,
+      "year": 2015,
+      "length": null,
+      "seasons": 6,
+      "episodes": 36,
+      "description": "Tommy Shelby, a dangerous man, leads the Peaky Blinders, a gang based in Birmingham. Soon, Chester Campbell, an inspector, decides to nab him and put an end to the criminal activities.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 13
+    },
+    {
+      "type": "series",
+      "title": "True Detective",
+      "genre": [
+        "thriller"
+      ],
+      "director": "Cary Joji Fukunaga (s. 1); Various (s. 2–3); Issa López (s. 4)",
+      "rating": 4.5,
+      "year": 2024,
+      "length": null,
+      "seasons": 4,
+      "episodes": 32,
+      "description": "Police officers and detectives around the USA are forced to face dark secrets about themselves and the people around them while investigating homicides.",
+      "image": "https://m.media-amazon.com/images/I/A1pVKOuyd7L._AC_UF894,1000_QL80_.jpg",
+      "availableOn": [
+        "Prime Video"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 14
+    },
+    {
+      "type": "series",
+      "title": "Ozark",
+      "genre": [
+        "drama"
+      ],
+      "director": "Bill Dubuque; Mark Williams",
+      "rating": 4.75,
+      "year": 2017,
+      "length": null,
+      "seasons": 4,
+      "episodes": 29,
+      "description": "Created by Bill Dubuque (\"The Accountant,\" \"The Judge\"), this drama series stars Jason Bateman as Marty Byrde, a financial planner who relocates his family from Chicago to a summer resort community in the Ozarks. With wife Wendy and their two kids in tow, Marty is on the move after a money-laundering scheme goes wrong, forcing him to pay off a substantial debt to a Mexican drug lord in order to keep his family safe. While the Byrdes' fate hangs in the balance, the dire circumstances force the fractured family to reconnect.",
+      "image": "https://resizing.flixster.com/3ko6zO6791p1QPOXHUI2eCwmHXQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMDIyOTBmN2QtMzM0Yi00ODUxLWE0MWYtMmViYWJiOGViZjRkLmpwZw==",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 15
+    },
+    {
+      "type": "series",
+      "title": "Marco Polo",
+      "genre": [
+        "drama"
+      ],
+      "director": "John Fusco",
+      "rating": 4.25,
+      "year": 2014,
+      "length": null,
+      "seasons": 2,
+      "episodes": 21,
+      "description": "Venetian merchant and adventurer Marco Polo journeys across Europe and Asia and lands up as a prisoner in the palace of Kublai Khan, a 13th century Mongolian emperor.",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10491859_b_v8_ad.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "",
+      "recap": "",
+      "notes": [],
+      "id": 16
     }
   ]
 }
