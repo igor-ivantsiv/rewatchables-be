@@ -452,6 +452,32 @@
       "recap": "",
       "notes": [],
       "id": 19
+    },
+    {
+      "type": "movies",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "genre": [
+        "adventure",
+        "fantasy"
+      ],
+      "director": "Chris Columbus",
+      "rating": 2.75,
+      "year": 2001,
+      "length": "02:32",
+      "seasons": 1,
+      "episodes": 1,
+      "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "image": "https://i.pinimg.com/736x/da/c5/fc/dac5fcc55ac01365282e66551a9c5d0f.jpg",
+      "availableOn": [
+        "Disney+",
+        "Roku",
+        "Paramount+",
+        "Netflix"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
+      "recap": "",
+      "notes": [],
+      "id": 20
     }
   ],
   "series": [
@@ -479,7 +505,7 @@
         "HBO Max",
         "Hulu"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=yAAphfWE3Vs",
       "recap": "",
       "notes": []
     },
@@ -507,7 +533,7 @@
         "Apple TV",
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=rrwycJ08PSA",
       "recap": "",
       "notes": []
     },
@@ -533,7 +559,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=5SKP1_F7ReE",
       "recap": "",
       "notes": []
     },
@@ -559,7 +585,7 @@
         "Netflix",
         "Apple TV"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=sfAc2U20uyg",
       "recap": "",
       "notes": []
     },
@@ -584,7 +610,7 @@
         "Paramount+",
         "Disney+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=C4W4L9TLJa8",
       "recap": "",
       "notes": []
     },
@@ -609,7 +635,7 @@
         "Hulu",
         "Paramount+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=7rcozIVtujw",
       "recap": "",
       "notes": [],
       "id": 6
@@ -631,7 +657,7 @@
       "availableOn": [
         "Paramount+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=jr32f0rnK1o",
       "recap": "",
       "notes": [],
       "id": 7
@@ -653,7 +679,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=n6txTQnEPnU",
       "recap": "",
       "notes": [],
       "id": 8
@@ -675,7 +701,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=N6HGuJC--rk",
       "recap": "",
       "notes": [],
       "id": 9
@@ -698,7 +724,7 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=WxPApTGWwas",
       "recap": "",
       "notes": [],
       "id": 10
@@ -720,7 +746,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=hzz_6dmv03I",
       "recap": "",
       "notes": [],
       "id": 11
@@ -742,7 +768,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=3awG5wEE7LU",
       "recap": "",
       "notes": [],
       "id": 12
@@ -764,7 +790,7 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=EM12mcTEI88",
       "recap": "",
       "notes": [],
       "id": 13
@@ -786,7 +812,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=fVQUcaO4AvE",
       "recap": "",
       "notes": [],
       "id": 14
@@ -808,7 +834,7 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=5hAXVqrljbs",
       "recap": "",
       "notes": [],
       "id": 15
@@ -830,10 +856,104 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=TjxmgKuL7ZM",
       "recap": "",
       "notes": [],
       "id": 16
+    },
+    {
+      "type": "series",
+      "title": "Narcos",
+      "genre": [
+        "drama"
+      ],
+      "director": "Carlo Bernard",
+      "rating": 3.5,
+      "year": 2015,
+      "length": null,
+      "seasons": 3,
+      "episodes": 30,
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "image": "https://fr.web.img6.acsta.net/pictures/15/07/29/14/33/086520.jpg",
+      "availableOn": [
+        "Netflix"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=xl8zdCY-abw",
+      "recap": "",
+      "notes": [],
+      "id": 17
+    },
+    {
+      "type": "series",
+      "title": "Game of Thrones",
+      "genre": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "director": "David Benioff",
+      "rating": 4.25,
+      "year": 2024,
+      "length": null,
+      "seasons": 8,
+      "episodes": 74,
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "availableOn": [
+        "HBO Max"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+      "recap": "",
+      "notes": [],
+      "id": 18
+    },
+    {
+      "type": "series",
+      "title": "The Office",
+      "genre": [
+        "comedy"
+      ],
+      "director": "Greg Daniels",
+      "rating": 4,
+      "year": 2005,
+      "length": null,
+      "seasons": 9,
+      "episodes": 188,
+      "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+      "availableOn": [
+        "Hulu",
+        "Prime Video"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=LHOtME2DL4g",
+      "recap": "",
+      "notes": [],
+      "id": 19
+    },
+    {
+      "type": "series",
+      "title": "Rick and Morty",
+      "genre": [
+        "comedy",
+        "adventure"
+      ],
+      "director": "Dan Harmon",
+      "rating": 3.5,
+      "year": 2013,
+      "length": null,
+      "seasons": 6,
+      "episodes": 71,
+      "description": "The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.",
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/rick-and-morty-poster.jpg",
+      "availableOn": [
+        "HBO Max",
+        "Apple TV",
+        "Netflix"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=BFTSrbB2wII",
+      "recap": "",
+      "notes": [],
+      "id": 20
     }
   ]
 }
