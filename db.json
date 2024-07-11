@@ -28,7 +28,7 @@
         "Roku",
         "Disney+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4",
       "recap": "",
       "notes": []
     },
@@ -54,7 +54,7 @@
         "Netflix",
         "Apple TV"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=hYcw5ksV8YQ",
       "recap": "",
       "notes": []
     },
@@ -81,7 +81,7 @@
         "Apple TV",
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=y2rYRu8UW8M",
       "recap": "",
       "notes": []
     },
@@ -107,7 +107,7 @@
         "Apple TV",
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=0fUCuvNlOCg",
       "recap": "",
       "notes": []
     },
@@ -122,7 +122,7 @@
       "director": "Brian De Palma",
       "rating": 4.1,
       "year": 1983,
-      "length": "2h 50m",
+      "length": "02:50",
       "seasons": null,
       "episodes": null,
       "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
@@ -132,7 +132,7 @@
         "Apple TV",
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=vREl66xmXsE",
       "recap": "",
       "notes": []
     },
@@ -155,7 +155,7 @@
         "Roku",
         "Paramount+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=9CiW_DgxCnQ",
       "recap": "",
       "notes": [],
       "id": 6
@@ -180,7 +180,7 @@
         "Netflix",
         "Disney+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=cSp1dM2Vj48",
       "recap": "",
       "notes": [],
       "id": 7
@@ -202,7 +202,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=n9xhJrPXop4",
       "recap": "",
       "notes": [],
       "id": 8
@@ -224,7 +224,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=Way9Dexny3w",
       "recap": "",
       "notes": [],
       "id": 9
@@ -247,7 +247,7 @@
         "Apple TV",
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=rgrWXTz_8eU",
       "recap": "",
       "notes": [],
       "id": 10
@@ -269,7 +269,7 @@
       "availableOn": [
         "HBO Max"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=qHhHIbNuok8",
       "recap": "",
       "notes": [],
       "id": 11
@@ -291,7 +291,7 @@
       "availableOn": [
         "HBO Max"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
       "recap": "",
       "notes": [],
       "id": 12
@@ -314,7 +314,7 @@
       "availableOn": [
         "HBO Max"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=GokKUqLcvD8",
       "recap": "",
       "notes": [],
       "id": 13
@@ -336,7 +336,7 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
       "recap": "",
       "notes": [],
       "id": 14
@@ -359,7 +359,7 @@
       "availableOn": [
         "Netflix"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=qtRKdVHc-cE",
       "recap": "",
       "notes": [],
       "id": 15
@@ -381,7 +381,7 @@
       "availableOn": [
         "Disney+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
       "recap": "",
       "notes": [],
       "id": 16
@@ -403,7 +403,7 @@
       "availableOn": [
         "Disney+"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
       "recap": "",
       "notes": [],
       "id": 17
@@ -426,7 +426,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
       "recap": "",
       "notes": [],
       "id": 18
@@ -448,7 +448,7 @@
       "availableOn": [
         "Prime Video"
       ],
-      "trailer": "",
+      "trailer": "https://www.youtube.com/watch?v=LdOM0x0XDMo",
       "recap": "",
       "notes": [],
       "id": 19
